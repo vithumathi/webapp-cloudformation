@@ -1,0 +1,18 @@
+[
+  {
+    "ParameterKey": "ProjectName",
+    "ParameterValue": "UgWebApp"
+  },
+  {
+    "ParameterKey": "ServersMinSize",
+    "ParameterValue": "2"
+  },
+  {
+    "ParameterKey": "ServersMaxSize",
+    "ParameterValue": "4"
+  },
+  {
+    "ParameterKey": "ServersDesiredCapacity",
+    "ParameterValue": "4"
+  }
+]
