@@ -6,4 +6,4 @@ This project uses a cloudformation script to deploy a highly available web appli
 
 ![alt text][architecture]
 
-[architecture]: https://github.com/vithumathi/aws-iac/blob/master/app2-ias/web-app-infrastructure.png "Architecture Diagram"
+[architecture]: https://github.com/vithumathi/aws-iac/blob/master/app2-ias/ug-web-app-infrastructure.png "Architecture Diagram"
