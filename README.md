@@ -31,6 +31,7 @@ Use aws CloudFormation to set up network infrastructure, deploy servers, and cre
 ### Detailed Infrastructure Architecture
 
 ![alt text][architecture]
+
 [architecture]: ug-web-app-infrastructure.png "Architecture Diagram"
 
 ## Getting Started
